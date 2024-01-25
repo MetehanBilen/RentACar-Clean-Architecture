@@ -34,6 +34,10 @@ namespace Application.Features.Brands.Profiles
 
             CreateMap<Brand, GetByIdBrandResponse>().ReverseMap();
 
+
+
+
+
         }
     }
 }
